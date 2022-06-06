@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/C language/Series Nine/Series Nine4/series nine4/cmake-build-debug/CMakeFiles/series_nine4.dir
+C:/Users/USER/Desktop/C language/Series Nine/Series Nine4/series nine4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/C language/Series Nine/Series Nine4/series nine4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
